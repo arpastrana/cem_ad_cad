@@ -1,4 +1,4 @@
-# Constrained form-finding of tension compression structures using automatic differentiation
+# Constrained form-finding of tension-compression structures using automatic differentiation
 
 <img src="header.png" width="1200">
 
