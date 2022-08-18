@@ -19,3 +19,5 @@ The file in ``/case_study`` only works in grasshopper for [Rhino3D](https://www.
 
 Regardless of the file or the environment, all the files require a valid installation of ``compas_cem`` to be executed.
 Follow the instructions listed [in this website](https://arpastrana.github.io/compas_cem/latest/installation.html) to install ``compas_cem`` according to your operating system.
+
+If you have a question or you find a bug in the files, please reach out to arpastrana at princeton dot edu.
