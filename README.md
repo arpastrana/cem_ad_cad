@@ -17,12 +17,12 @@ The Python script in the folder ``/case_study`` sections 3 is executed from a co
 The [jupyter notebooks](https://jupyter.org/) in the folder ``/numerical_validation`` can be executed locally or remotely using [Google Colab](https://research.google.com/colaboratory/).
 The file in ``/case_study`` only works in grasshopper for [Rhino3D](https://www.rhino3d.com/). 
 
-Regardless of the file or the environment, all the files require a valid installation of ``compas_cem`` **version ``0.6.0``** to work.
+Regardless of the file or the environment, all the files require a valid installation of ``compas_cem`` **version ``0.6.1``** to work.
 
 If you are confortable with python, you can install this version of ``compas_cem`` with a one-liner:
 
 ``` python
-pip install compas-cem==0.6.0
+pip install compas-cem==0.6.1
 ```
 
 Otherwise, please follow the instructions listed [in this website](https://arpastrana.github.io/compas_cem/latest/installation.html) for more detailed instructions on how to install ``compas_cem`` according to your operating system.
